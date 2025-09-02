@@ -1,0 +1,10 @@
+data/df_3dpose_718494_2024-12-03_10-29-27.pkl
+data/df_angles_718494_2024-12-03_10-29-27.pkl
+data/df_fip_718494_718494_2024-12-03_10-29-27.pkl
+data/df_pp_params718494_718494_2024-12-03_10-29-27.pkl
+code/__pycache__/main.cpython-313.pyc
+data/df_3dpose_filtered_718494_2024-12-03_10-29-27.pkl
+data/df_behavioral_traces_718494_2024-12-03_10-29-27.pkl
+data/df_fip_signals_718494_2024-12-03_10-29-27.pkl
+results/fip_pca_correlation_heatmap.png
+results/pca_fip_correlation_analysis.png
